@@ -439,4 +439,10 @@ footer {
      color: rgb(209, 207, 207);
      background-color: rgb(192, 61, 37);
 }
-
+.btn:hover {
+    color: rgb(209, 207, 207);
+    background-color: rgb(192, 61, 37);
+}
+.choose-program a:hover {
+    text-decoration: underline;
+}
