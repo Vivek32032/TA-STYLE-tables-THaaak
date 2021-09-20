@@ -52,6 +52,10 @@ table {
     --primary: rgb(243,80,50);
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0 auto;
     /* position: relative; */
